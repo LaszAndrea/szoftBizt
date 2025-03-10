@@ -1,0 +1,6 @@
+name;fileA;fileB;fileC;printer;
+Alice;rw;rw;rw;ok;
+Bob;r;r;rw;ok;
+Carol;rw; ; ; ;
+David; ; ;rw;ok;
+Faculty;rw; ;rw;ok;
