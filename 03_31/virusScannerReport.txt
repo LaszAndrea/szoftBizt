@@ -1,0 +1,4 @@
+Looked files: 3
+The virus.txt.txt file is safe!
+The virus2.txt.txt file is safe!
+The random_file.bin.txt file is safe!
