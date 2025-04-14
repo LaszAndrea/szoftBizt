@@ -1,0 +1,28 @@
+Remote Desktop Softwares:
+
+- TeamViewer
+- AnyDesk
+- Chrome extension
+- Ultra VNC
+- UltraViewer
+- Tight VNC
+- Real VNC
+- ConnectVise Control
+- Zoho Assist
+- SplashTop
+- LogMeIn
+- Putty
+- RemotePC
+- GoToMyPc
+- Parsec
+- Parallels Desktop
+- AnyViewer
+- Dameware Remote Everywhere
+- DesktopNow
+- AeroAdmin
+- RustDesk
+- Remote Desktop Manager
+- ISL Online
+- Remote Utilities for Windows
+- ConnectWise ScreenConnect
+- GoToMyPC
